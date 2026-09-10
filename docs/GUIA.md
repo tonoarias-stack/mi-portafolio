@@ -10,7 +10,7 @@ En este laboratorio se practico el flujo de trabajo colaborativo usando ramas (b
 
 - **Git** para el control de versiones
 - **GitHub** para alojar el repositorio remoto
-- *Visual Studio Code* como editor de texto
+- _Visual Studio Code_ como editor de texto
 
 ## Pasos para reproducir el proyecto
 
@@ -28,11 +28,11 @@ En este laboratorio se practico el flujo de trabajo colaborativo usando ramas (b
 
 ## Archivos y comandos del proyecto
 
-| Archivo o comando | Que hace |
-|---------|----------|
-| git branch | Crea o lista las ramas del repositorio |
-| git checkout | Cambia entre ramas |
-| git merge | Fusiona los cambios de una rama en otra |
+| Archivo o comando | Que hace                                |
+| ----------------- | --------------------------------------- |
+| git branch        | Crea o lista las ramas del repositorio  |
+| git checkout      | Cambia entre ramas                      |
+| git merge         | Fusiona los cambios de una rama en otra |
 
 ## Comando de ejemplo
 
@@ -46,7 +46,7 @@ git merge main
 
 ## Recursos
 
-- [Documentacion oficial de Git sobre ramas](https://git-scm.com/book/es/v2/Ramificaciones-en-Git-Ramificaciones-en-pocas-palabras)
+- [Guia de ramas en Git - Atlassian](https://www.atlassian.com/es/git/tutorials/using-branches)
 
 ## Captura del proyecto
 
